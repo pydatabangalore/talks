@@ -2,6 +2,8 @@
 
 To propose a talk, please [open an issue](https://github.com/pydatabangalore/talks/issues/new/choose)!
 
+Join the conversation on our [Slack workspace](https://join.slack.com/t/pydatabangalore/shared_invite/enQtNjkzMjA5MTA4MDUyLTE2OWQ4MjFkMGZhNDFjM2IxNmYwM2JkZTdjOGNhNmI5Yzg1Yzk3MTVlMTZjOTMwMWJhYzFkZDZkN2ZjNzdiNDg) :speaking_head:
+
 ## List of talks at PyData Bangalore meetups (in reverse chronological order):
 
 <table>
