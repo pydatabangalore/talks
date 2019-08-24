@@ -17,6 +17,33 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <th>YouTube URL</th>
   </tr>
   <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/263814406/">3</a></td>
+    <td>August 24, 2019</td>
+    <td>Building Pluto: Compute for Exploratory Financial Data Analysis </td>
+    <td>Shyam Sunder</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="">GitHub</a></td>
+    <td><a href="">YouTube</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/263814406/">3</a></td>
+    <td>August 24, 2019</td>
+    <td>Machine Learning Bias</td>
+    <td>AbdulMajedRaja RS</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="">GitHub</a></td>
+    <td><a href="">YouTube</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/263814406/">3</a></td>
+    <td>August 24, 2019</td>
+    <td>Transfer Learning in Computer Vision</td>
+    <td>Viswanath Ravindran</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="">GitHub</a></td>
+    <td><a href="">YouTube</a></td>
+  </tr>
+  <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/262728799/">2</a></td>
     <td>July 13, 2019</td>
     <td>[Lightning talk] Learn Pipenv for great good!</td>
