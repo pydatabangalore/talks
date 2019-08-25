@@ -21,18 +21,18 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>August 24, 2019</td>
     <td>Building Pluto: Compute for Exploratory Financial Data Analysis </td>
     <td>Shyam Sunder</td>
-    <td><a href="">Slides</a></td>
-    <td><a href="">GitHub</a></td>
-    <td><a href="">YouTube</a></td>
+    <td><a href="https://github.com/shyams80/pluto/blob/master/media/Pluto.pptx">Slides</a></td>
+    <td><a href="https://github.com/shyams80">GitHub</a></td>
+    <td><a href="https://www.youtube.com/watch?v=_GbAoRETX0M">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/263814406/">3</a></td>
     <td>August 24, 2019</td>
     <td>Machine Learning Bias</td>
     <td>AbdulMajedRaja RS</td>
-    <td><a href="">Slides</a></td>
-    <td><a href="">GitHub</a></td>
-    <td><a href="">YouTube</a></td>
+    <td><a href="https://speakerdeck.com/amrrs/machine-learning-bias">Slides</a></td>
+    <td><a href="https://github.com/amrrs">GitHub</a></td>
+    <td><a href="https://www.youtube.com/watch?v=-gglO3q9ppU">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/263814406/">3</a></td>
@@ -40,8 +40,8 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>Transfer Learning in Computer Vision</td>
     <td>Viswanath Ravindran</td>
     <td><a href="">Slides</a></td>
-    <td><a href="">GitHub</a></td>
-    <td><a href="">YouTube</a></td>
+    <td><a href="https://github.com/ViswanathRavindran">GitHub</a></td>
+    <td><a href="https://www.youtube.com/watch?v=VEAsoEZJfaM">YouTube</a></td>
   </tr>
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/262728799/">2</a></td>
