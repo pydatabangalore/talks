@@ -39,7 +39,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>August 24, 2019</td>
     <td>Transfer Learning in Computer Vision</td>
     <td>Viswanath Ravindran</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="https://github.com/ViswanathRavindran/Transfer_Learning_Talk">Slides</a></td>
     <td><a href="https://github.com/ViswanathRavindran">GitHub</a></td>
     <td><a href="https://www.youtube.com/watch?v=VEAsoEZJfaM">YouTube</a></td>
   </tr>
