@@ -17,9 +17,45 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <th>YouTube URL</th>
   </tr>
   <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/264745505/">4</a></td>
+    <td>September 21, 2019</td>
+    <td>Making ML Models available as API using R</td>
+    <td>Saurav Ghosh</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="">GitHub</a></td>
+    <td><a href="https://www.youtube.com/watch?v=6ZGefYmiQDI">YouTube</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/264745505/">4</a></td>
+    <td>September 21, 2019</td>
+    <td>Spatial thinking with Python</td>
+    <td>Sangarshanan</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="https://github.com/Sangarshanan">GitHub</a></td>
+    <td><a href="https://www.youtube.com/watch?v=dWb2tInHtvI">YouTube</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/264745505/">4</a></td>
+    <td>September 21, 2019</td>
+    <td>Getting started with Apache Beam using Python</td>
+    <td>Ramjee Ganti</td>
+    <td><a href="https://docs.google.com/presentation/d/1KRmJPtZPZV5nojU_quQilNvlK6Wn-ytKNoJwSsZ91LY/edit">Slides</a></td>
+    <td><a href="https://github.com/gantir">GitHub</a></td>
+    <td><a href="https://www.youtube.com/watch?v=p2u0SQ_uroc">YouTube</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/264745505/">4</a></td>
+    <td>September 21, 2019</td>
+    <td>Text Analytics using R</td>
+    <td>Prof. Aruna Devi & Dr. Vinothina V</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="">GitHub</a></td>
+    <td><a href="https://www.youtube.com/watch?v=fC2BKrutF2c">YouTube</a></td>
+  </tr>
+  <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/263814406/">3</a></td>
     <td>August 24, 2019</td>
-    <td>Building Pluto: Compute for Exploratory Financial Data Analysis </td>
+    <td>Building Pluto: Compute for Exploratory Financial Data Analysis</td>
     <td>Shyam Sunder</td>
     <td><a href="https://github.com/shyams80/pluto/blob/master/media/Pluto.pptx">Slides</a></td>
     <td><a href="https://github.com/shyams80">GitHub</a></td>
