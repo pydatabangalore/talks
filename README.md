@@ -30,7 +30,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>September 21, 2019</td>
     <td>Spatial thinking with Python</td>
     <td>Sangarshanan</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="https://speakerdeck.com/sangarshanan/spatial-thinking-with-python-pydata-number-4">Slides</a></td>
     <td><a href="https://github.com/Sangarshanan">GitHub</a></td>
     <td><a href="https://www.youtube.com/watch?v=dWb2tInHtvI">YouTube</a></td>
   </tr>
