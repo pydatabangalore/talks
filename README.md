@@ -21,8 +21,8 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>September 21, 2019</td>
     <td>Making ML Models available as API using R</td>
     <td>Saurav Ghosh</td>
-    <td><a href="">Slides</a></td>
-    <td><a href="">GitHub</a></td>
+    <td><a href="https://github.com/sauravg94/plumber-brug">Slides</a></td>
+    <td><a href="https://github.com/sauravg94">GitHub</a></td>
     <td><a href="https://www.youtube.com/watch?v=6ZGefYmiQDI">YouTube</a></td>
   </tr>
   <tr>
