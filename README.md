@@ -21,7 +21,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>November 9, 2019</td>
     <td>spaCy Transformers</td>
     <td>Matthew Honnibal</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="https://speakerdeck.com/honnibal/spacy-meets-transformers">Slides</a></td>
     <td><a href="https://github.com/honnibal">GitHub</a></td>
     <td></td>
   </tr>
