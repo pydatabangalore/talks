@@ -17,6 +17,33 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <th>YouTube URL</th>
   </tr>
   <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/265344086/">5</a></td>
+    <td>November 9, 2019</td>
+    <td>spaCy Transformers</td>
+    <td>Matthew Honnibal</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="https://github.com/honnibal">GitHub</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/265344086/">5</a></td>
+    <td>November 9, 2019</td>
+    <td>Globally Scalable ClickStream Data Collection</td>
+    <td>Ramjee Ganti</td>
+    <td><a href="https://docs.google.com/presentation/d/1uyxtJYVzTB7IaoSWSQSrHHwplMuR9EP9_ZcLVQTZJSk/">Slides</a></td>
+    <td><a href="https://github.com/gantir">GitHub</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/265344086/">5</a></td>
+    <td>November 9, 2019</td>
+    <td>PyTorch Lightning</td>
+    <td>William Falcon</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="https://github.com/williamFalcon">GitHub</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/264745505/">4</a></td>
     <td>September 21, 2019</td>
     <td>Making ML Models available as API using R</td>
