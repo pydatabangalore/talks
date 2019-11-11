@@ -30,7 +30,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>November 9, 2019</td>
     <td>Globally Scalable ClickStream Data Collection</td>
     <td>Ramjee Ganti</td>
-    <td><a href="https://docs.google.com/presentation/d/1uyxtJYVzTB7IaoSWSQSrHHwplMuR9EP9_ZcLVQTZJSk/">Slides</a></td>
+    <td><a href="slides/meetup-5-talk-2-clickstream-analytics.pdf">Slides</a></td>
     <td><a href="https://github.com/gantir">GitHub</a></td>
     <td></td>
   </tr>
