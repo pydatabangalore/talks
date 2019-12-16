@@ -27,6 +27,33 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td></td>
   </tr>  
   <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
+    <td>December 14, 2019</td>
+    <td>Interactive Visulization with `plotly.express`</td>
+    <td>AbdulMajedRaja RS</td>
+    <td><a href="https://amrrs.github.io/Interactive-Viz-Plotly-Express/presentation.html">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/amrrs/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
+    <td>December 14, 2019</td>
+    <td>Data Visualizations with R</td>
+    <td>Baijayanti Chakraborty</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/baijayanti-chakraborty/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
+    <td>December 14, 2019</td>
+    <td>Machine Learning in R - the Tidy way</td>
+    <td>Saurav Ghosh</td>
+    <td><a href="https://github.com/sauravg94/tidymodels-brug">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/saurav-ghosh-1311214/">Linkedin</a></td>
+    <td></td>
+  </tr>  
+  <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/265344086/">5</a></td>
     <td>November 9, 2019</td>
     <td>spaCy Transformers</td>
