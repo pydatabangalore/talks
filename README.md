@@ -16,6 +16,16 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <th>Twitter/GitHub/LinkedIn handle</th>
     <th>YouTube URL</th>
   </tr>
+
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
+    <td>December 14, 2019</td>
+    <td>Streaming Data Pipelines with Apache Beam</td>
+    <td>Tanay Tummalapalli</td>
+    <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
+    <td></td>
+  </tr>  
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/265344086/">5</a></td>
     <td>November 9, 2019</td>
