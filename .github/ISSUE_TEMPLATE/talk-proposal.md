@@ -28,5 +28,5 @@ assignees: sangarshanan,TrigonaMinima, vinayak-mehta
 
 ---
 
-- [ ] Don't record this talk.
-> Check this if you don't want your talk to be recorded.
+- [ ] Do you require internet for the presentation?
+- [ ] Do you want your talk to be recorded?
