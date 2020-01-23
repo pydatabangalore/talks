@@ -18,6 +18,43 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
   </tr>
 
   <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/267686564/">7</a></td>
+    <td>January 18, 2020</td>
+    <td>Defensive Programming for Deep Learning with Pytorch</td>
+    <td>Akash Swamy</td>
+    <td><a href="https://docs.google.com/presentation/d/1DPWiSbqlR-IVwn7-cx44ZXtr_Rkp0S5v00J_UsadGEg/edit#slide=id.p">Slides</a></td>
+    <td><a href="https://github.com/hsakas">Github</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/267686564/">7</a></td>
+    <td>January 18, 2020</td>
+    <td>A look at state-of-the-art dimensionality reduction techniques</td>
+    <td>Tamojit</td>
+    <td><a href="https://github.com/tamojit-maiti/PyData-Dimension_Reduction-Jan-2020">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/tamojit-maiti-635691157/">Linkedin</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/267686564/">7</a></td>
+    <td>January 18, 2020</td>
+    <td>Interpretability: Cracking open the Black Box</td>
+    <td>Manu Joseph</td>
+    <td><a href="https://drive.google.com/open?id=1GnpWyHXNNx-wkRgNFFvzz-iVE69ML-bV">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/manujosephv/">Linkedin</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/267686564/">7</a></td>
+    <td>January 18, 2020</td>
+    <td>OpenStreetMap Data Processing with Python</td>
+    <td>Ramya Ragupathy</td>
+    <td><a href="https://docs.google.com/presentation/d/1rC7WFn_w_QZaoJjriwvk3ykRiWKny1ip4pZXex82amo/mobilepresent#slide=id.g6454da2949_1_119">Slides</a></td>
+    <td><a href="https://twitter.com/ramya_ragupathy">Linkedin</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
     <td>December 14, 2019</td>
     <td>Streaming Data Pipelines with Apache Beam</td>
@@ -25,7 +62,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
     <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
     <td></td>
-  </tr>  
+  </tr>
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
     <td>December 14, 2019</td>
@@ -34,7 +71,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td><a href="https://amrrs.github.io/Interactive-Viz-Plotly-Express/presentation.html">Slides</a></td>
     <td><a href="https://www.linkedin.com/in/amrrs/">Linkedin</a></td>
     <td></td>
-  </tr>  
+  </tr>
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
     <td>December 14, 2019</td>
@@ -43,7 +80,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td><a href="https://www.slideshare.net/BaijayantiChakrabort3/data-visualization-206264770">Slides</a></td>
     <td><a href="https://www.linkedin.com/in/baijayanti-chakraborty/">Linkedin</a></td>
     <td></td>
-  </tr>  
+  </tr>
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/266804685/">6</a></td>
     <td>December 14, 2019</td>
@@ -52,7 +89,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td><a href="https://github.com/sauravg94/tidymodels-brug">Slides</a></td>
     <td><a href="https://www.linkedin.com/in/saurav-ghosh-1311214/">Linkedin</a></td>
     <td></td>
-  </tr>  
+  </tr>
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/265344086/">5</a></td>
     <td>November 9, 2019</td>
