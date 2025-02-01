@@ -3,7 +3,7 @@ name: Talk proposal
 about: A template for talk proposals.
 title: Title of the proposal
 labels: proposal
-assignees: sangarshanan,TrigonaMinima, vinayak-mehta
+assignees: amrrs, nvs-abhilash
 
 ---
 

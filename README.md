@@ -1,8 +1,8 @@
-# [PyData Bangalore Talks](https://www.meetup.com/pydata-bangalore/)
+# PyData Bangalore Talks
+
+Meetup Page: https://www.meetup.com/pydata-bangalore
 
 To propose a talk, please [open an issue](https://github.com/pydatabangalore/talks/issues/new/choose)!
-
-Join the conversation on our [Slack workspace](https://join.slack.com/t/pydatabangalore/shared_invite/enQtNjkzMjA5MTA4MDUyLTE2OWQ4MjFkMGZhNDFjM2IxNmYwM2JkZTdjOGNhNmI5Yzg1Yzk3MTVlMTZjOTMwMWJhYzFkZDZkN2ZjNzdiNDg) :speaking_head:
 
 ## List of talks at PyData Bangalore meetups (in reverse chronological order):
 
@@ -18,6 +18,36 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
   </tr>
 
   <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/305472183">8</a></td>
+    <td>January 25, 2025</td>
+    <td>Agents 101</td>
+    <td>AbdulMajed Raja</td>
+    <td><a href="https://docs.google.com/presentation/d/1WAW70EEUD-UNJyIYCB9v0hJ_D8TJerONHB1_GhzXfOA/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/amrrs/">LinkedIn</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/305472183">8</a></td>
+    <td>January 25, 2025</td>
+    <td>Neuroevolution of augmenting topologies</td>
+    <td>Indivar Mishra</td>
+    <td><a href="https://docs.google.com/presentation/d/1z9-XuYIJKJmok62YkgYIw_ZPNv8QYfjeJgImtiPHnh8/edit#slide=id.p">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/indivar-mishra/">LinkedIn</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.meetup.com/pydata-bangalore/events/305472183">8</a></td>
+    <td>January 25, 2025</td>
+    <td>Learnings from NLP Past competitions</td>
+    <td>Prabu Palanisamy</td>
+    <td><a href="">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/prabu-palanisamy-ml/">LinkedIn</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/267686564/">7</a></td>
     <td>January 18, 2020</td>
     <td>Defensive Programming for Deep Learning with Pytorch</td>
@@ -26,13 +56,14 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td><a href="https://github.com/hsakas">Github</a></td>
     <td></td>
   </tr>
+
   <tr>
     <td><a href="https://www.meetup.com/pydata-bangalore/events/267686564/">7</a></td>
     <td>January 18, 2020</td>
     <td>A look at state-of-the-art dimensionality reduction techniques</td>
     <td>Tamojit</td>
     <td><a href="https://github.com/tamojit-maiti/PyData-Dimension_Reduction-Jan-2020">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/tamojit-maiti-635691157/">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/tamojit-maiti-635691157/">LinkedIn</a></td>
     <td></td>
   </tr>
   <tr>
@@ -41,7 +72,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>Interpretability: Cracking open the Black Box</td>
     <td>Manu Joseph</td>
     <td><a href="https://drive.google.com/open?id=1GnpWyHXNNx-wkRgNFFvzz-iVE69ML-bV">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/manujosephv/">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/manujosephv/">LinkedIn</a></td>
     <td></td>
   </tr>
   <tr>
@@ -50,7 +81,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>OpenStreetMap Data Processing with Python</td>
     <td>Ramya Ragupathy</td>
     <td><a href="https://docs.google.com/presentation/d/1rC7WFn_w_QZaoJjriwvk3ykRiWKny1ip4pZXex82amo/mobilepresent#slide=id.g6454da2949_1_119">Slides</a></td>
-    <td><a href="https://twitter.com/ramya_ragupathy">Linkedin</a></td>
+    <td><a href="https://twitter.com/ramya_ragupathy">Twitter</a></td>
     <td></td>
   </tr>
 
@@ -60,7 +91,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>Streaming Data Pipelines with Apache Beam</td>
     <td>Tanay Tummalapalli</td>
     <td><a href="https://docs.google.com/presentation/d/1vst7kJnBCVrdqw2_6__aZbWsGdeU9ulWnklSDMUjLpQ/edit?usp=sharing">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/ttanay/">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/ttanay/">LinkedIn</a></td>
     <td></td>
   </tr>
   <tr>
@@ -69,7 +100,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>Interactive Visulization with `plotly.express`</td>
     <td>AbdulMajedRaja RS</td>
     <td><a href="https://amrrs.github.io/Interactive-Viz-Plotly-Express/presentation.html">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/amrrs/">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/amrrs/">LinkedIn</a></td>
     <td></td>
   </tr>
   <tr>
@@ -78,7 +109,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>Data Visualizations with R</td>
     <td>Baijayanti Chakraborty</td>
     <td><a href="https://www.slideshare.net/BaijayantiChakrabort3/data-visualization-206264770">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/baijayanti-chakraborty/">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/baijayanti-chakraborty/">LinkedIn</a></td>
     <td></td>
   </tr>
   <tr>
@@ -87,7 +118,7 @@ Join the conversation on our [Slack workspace](https://join.slack.com/t/pydataba
     <td>Machine Learning in R - the Tidy way</td>
     <td>Saurav Ghosh</td>
     <td><a href="https://github.com/sauravg94/tidymodels-brug">Slides</a></td>
-    <td><a href="https://www.linkedin.com/in/saurav-ghosh-1311214/">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/saurav-ghosh-1311214/">LinkedIn</a></td>
     <td></td>
   </tr>
   <tr>
