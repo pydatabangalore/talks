@@ -22,8 +22,8 @@ To propose a talk, please [open an issue](https://github.com/pydatabangalore/tal
     <td>January 25, 2025</td>
     <td>Agents 101</td>
     <td>AbdulMajed Raja</td>
-    <td><a href="">Slides</a></td>
-    <td><a href="https://x.com/1littlecoder/">Twitter</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1WAW70EEUD-UNJyIYCB9v0hJ_D8TJerONHB1_GhzXfOA/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://www.linkedin.com/in/amrrs/">LinkedIn</a></td>
     <td></td>
   </tr>
 
